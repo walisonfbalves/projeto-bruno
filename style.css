@@ -101,4 +101,10 @@ p {
     vertical-align: -30%;
 }
 
+#imgbg{
+    border-radius:unset;
+    margin: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+}
 
