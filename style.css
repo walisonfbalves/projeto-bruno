@@ -8,29 +8,6 @@ img {
     border-radius: 50%;
 }
 
-thead .div1{
-    position: relative;
-    z-index: 1000;
-    box-sizing: border-box;
-    display: flex;
-    flex: none;
-    align-items: center;
-    justify-content: flex-end;
-    width: 408px;
-    height: 59px;
-    padding: 10px 16px;
-}
 
-thead .div2{
-    position: relative;
-    z-index: 1000;
-    box-sizing: border-box;
-    display: flex;
-    flex: none;
-    align-items: center;
-    justify-content: flex-end;
-    width: 952px;
-    height: 59px;
-    padding: 10px 16px;
-}
+
 
