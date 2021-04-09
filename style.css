@@ -58,6 +58,7 @@ p {
     border-bottom:1px solid #616364;
     border-right: 1px solid #616364;
     background-color: #172025;
+    
 }
 .notificacao {
     background-color: #085373;
@@ -103,8 +104,17 @@ p {
 
 #imgbg{
     border-radius:unset;
-    margin: auto;
-    padding-top: auto;
-    padding-bottom: auto;
+    float:right;
+    height: 100px;
+    width: 1000px;
+    border-bottom: 2px solid black;
 }
+
+#imgbg2{
+    border-radius:unset;
+    float:right;
+    height: 600px;
+    width: 1000px;
+}
+
 
