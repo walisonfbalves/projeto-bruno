@@ -1,4 +1,10 @@
 
-.fotodeperfil {
+* {
+    background-color:#2a2f32;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 50%;
 }
 
