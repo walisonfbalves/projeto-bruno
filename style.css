@@ -89,11 +89,16 @@ p {
 .input2 {
     border: 1px solid #616364;
     border-radius: 40px;
-    width: 85%;
+    width: 80%;
     height: 30px;
-    text-align: center;
+    text-align: left;
     vertical-align: 50%;
+    padding-left: 10px;
+    
 }
 
+.botão{
+    vertical-align: -30%;
+}
 
 
