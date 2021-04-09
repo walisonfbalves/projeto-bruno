@@ -3,18 +3,90 @@
     background-color:#2a2f32;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    
 }
 
 img {
     border-radius: 50%;
+    background-color: #172025;
 }
 
+p {
+    font-size: 15px;
+    line-height: 21px;
+    background-color: #172025;
+}
+
+#semcor{
+    background-color:#2a2f32;
+}
+
+.margem{
+    background-color: #172025;
+    border: 1px solid #616364;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.input {
+    border: 1px solid #616364;
+    border-radius: 40px;
+    width: 85%;
+    height: 30px;
+    text-align: center;
+}
+
+.bgcvs {
+    background-color: #172025;
+}
+
+.img-espaço{
+    padding: 5px 10px 8px 6px;
+    background-color: #172025;
+}
+.linha {
+    border-right: 1px solid #616364;
+}
+
+.linha2 {
+    border-bottom: 1px solid #616364;
+    padding-left: 10px;
+    padding-bottom: 6px;
+}
+
+.imgs {
+    border-bottom:1px solid #616364;
+    border-right: 1px solid #616364;
+    background-color: #172025;
+}
 .notificacao {
     background-color: #085373;
-    image-orientation: initial;
-    width: 300px;
+    width: 350px;
+    height: 70px;
+    padding-left: 10px;
+    border-right: rgb(241 241 242 / 11%);
+    margin: 0px;
+}
+
+
+.prgf1 {
+    margin: auto;
+    background-color: #085373;
     
 }
+
+
+.planodefundo{
+    border-radius: 0px;
+}
+
+.cxmsg {
+    background-color: #1e2428;
+    text-align: center;
+    border-left: 1px solid rgb(241 241 242 / 11%);
+    padding: 5px 10px; 
+}
+
 
 
 
