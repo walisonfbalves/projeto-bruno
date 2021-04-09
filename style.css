@@ -28,7 +28,7 @@ p {
     padding: 10px 0px;
 }
 
-.input {
+.input1 {
     border: 1px solid #616364;
     border-radius: 40px;
     width: 85%;
@@ -84,10 +84,16 @@ p {
     background-color: #1e2428;
     text-align: center;
     border-left: 1px solid rgb(241 241 242 / 11%);
-    padding: 5px 10px; 
 }
 
-
+.input2 {
+    border: 1px solid #616364;
+    border-radius: 40px;
+    width: 85%;
+    height: 30px;
+    text-align: center;
+    vertical-align: 50%;
+}
 
 
 
