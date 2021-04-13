@@ -1,0 +1,45 @@
+html {
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.perfil {
+    width: 30%;
+    height: 10%;
+    box-sizing: border-box;
+    padding: 10px 16px;
+    border: 1px solid black;
+    background-color: #ededed;
+    vertical-align: center;
+    float: left;
+    position: absolute;
+    
+}
+
+.fotoperfil {
+    border-radius: 50%;
+    float:left;
+}
+
+.botoesperfil {
+    float:right;
+}
+
+.conversando {
+    width: 70%;
+    height: 10%;
+    box-sizing: border-box;
+    padding: 10px 16px;
+    border: 1px solid black;
+    background-color: #ededed;
+    vertical-align: center;
+    position:absolute;
+    left: 30%;
+}
+
+.nome {
+    float: left;
+    vertical-align: center;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
