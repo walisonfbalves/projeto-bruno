@@ -1,11 +1,12 @@
-html {
-    margin:0;
+* {
+    padding: 0;
+    margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .perfil {
     width: 30%;
-    height: 10%;
+    height: 59px;
     box-sizing: border-box;
     padding: 10px 16px;
     border: 1px solid black;
@@ -27,7 +28,7 @@ html {
 
 .conversando {
     width: 70%;
-    height: 10%;
+    height: 59px;
     box-sizing: border-box;
     padding: 10px 16px;
     border: 1px solid black;
@@ -42,4 +43,17 @@ html {
     vertical-align: center;
     box-sizing: border-box;
     margin-left: 10px;
+}
+
+.contato {
+        width: 30%;
+        height: 59px;
+        box-sizing: border-box;
+        padding: 10px 16px;
+        border: 1px solid black;
+        background-color: #ededed;
+        vertical-align: center;
+        float: left;
+        top: 59px;
+        position: relative;
 }
