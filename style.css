@@ -48,7 +48,6 @@
 .notificações {
         width: 30%;
         height: 89px;
-        line-height: 89px;
         box-sizing: border-box;
         display: flex;
         align-items: center;
@@ -62,9 +61,7 @@
 .pesquisa {
     width: 30%;
     height: 49px;
-    line-height: 49px;
     box-sizing: border-box;
-    align-items: center;
     padding: 13px 12px 14px 13px;
     border: 1px solid black;
     background-color: #ededed;
@@ -73,10 +70,9 @@
 }
 
 #textbox {
-    align-items: center;
-    vertical-align: center;
-    text-align: center;
+    left: 30%;
     position: relative;
+    margin-bottom: 100px;
 }
 
 .contato1, .contato2, .contato3, .contato4, .contato5, .contato6,.contato7, .contato8 {
